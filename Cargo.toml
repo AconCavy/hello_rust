@@ -2,5 +2,6 @@
 
 members = [
     "guessing_game",
+    "hello",
     "minigrep",
 ]
